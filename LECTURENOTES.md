@@ -5,6 +5,12 @@
 https://github.com/facebookincubator/create-react-app
 
 `sudo npm install -g create-react-app`
+
+##Installing Surge
+
+[https://surge.sh/](https://surge.sh/)
+
+
 `sudo npm install -g surge`
 
 ##run create-react-app
